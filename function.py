@@ -38,7 +38,7 @@ def encoder(X, y_single, column_name, encode_scheme):
     from category_encoders import OneHotEncoder
     from category_encoders import TargetEncoder
     
-    if encode_scheme == 'LeaveOneOutEncooder':
+    if encode_scheme == 'LeaveOneOutEncoder':
 
         enc_leaveoneout = LeaveOneOutEncoder(cols= column_name)
         X_new = enc_leaveoneout.fit_transform(X, y_single)
