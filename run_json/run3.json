@@ -1,0 +1,252 @@
+[
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "The titanium dioxide powder with mean particle sizes of 50 nm, 1 µm, and 10 µm, respectively, were all provided by Prof. Zhong Jiacheng’s group in Wuhan University, Chemistry Department. For preparation of the slurries, an appropriate quantity of titanium dioxide powder was transferred into a 100 mL flask. Then 0.01% (m/v) PVA was added as dispersant and stabilizer for achieving a homogeneous and stable slurry. The slurries were dispersed with an ultrasonicator for 30 min. The flasks were shaken vigorously prior to analysis.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "For the synthesis of TiO2 nanocomposite particles, both a batch and a semi-batch process have been used. The reaction conditions are listed in Table 1. For a typical run, PS-NaSS brush particles were dispersed in 32 g ethanol. Water with a stoichiometric ratio of TEOT was then added while stirring. The reaction was initiated by adding the solution of 0.15 mL tetraethylorthotitanate (TEOT; TCI) dissolved in 8 mL ethanol. For the batch process, TEOT was added quickly. And for semi-batch process, TEOT solution was added dropwise at a feeding rate of 0.08 mL min-1. The reaction mixture was stirred vigorously for two more hours after the addition of TEOT solution at room temperature. The TiO2 alcosols were then washed with ethanol and water by repeated centrifugation 3 times and redispersed into water after cleaning.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "The synthesis involved preparing UV-cured polysiloxane epoxy coatings containing titanium dioxide through a cationic photopolymerization process. Poly{dimethylsiloxane-co-[2-(3,4-epoxycyclohexyl)ethyl]methylsiloxane} (EPOX) was used as the epoxy resin, and the iodonium salt photoinitiator 4(1-methylethyl)-phenyl(4-methylphenyl)iodoniumtetrakis(pentafluorophenyl) borate (Rhodorsil 2074, PI) was added at 2 wt.-% with respect to the epoxy resin. Titania nanoparticles (TiO2, P25) were dispersed in the epoxy resin to prepare hybrid materials with titania contents ranging between 1 and 2 g/l. The mixtures were ultrasonicated for 15 minutes, coated on glass substrates, and UV irradiated using a Fusion lamp with a light intensity of about 500 mW/cm². The resulting coatings were stained with methylene blue for photocatalytic studies.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "The synthesis involved the sol-gel precipitation of mixed oxides (silica-titania, silica-zirconia, and silica-alumina) into poly(dimethylsiloxane) (PDMS) networks. Tetraethoxysilane (TEOS) was hydrolyzed and condensed in the presence of PDMS to generate silica and other mixed oxides within the elastomeric matrix. The resulting composites were characterized for mechanical properties, structure, and thermal stability. The filler particle diameters were generally several hundred Angstroms, with narrow size distributions and minimal particle aggregation.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "Composite dextran gels were prepared using epichlorohydrin as the covalent cross-linker and polyvalent metal compounds (sulfates or oxides) as modifying agents. Dextran was dissolved in an aqueous alkali solution, dispersed in poly(vinyl acetate) (PVAc) containing toluene, and cross-linked with epichlorohydrin at 50°C. The gels were modified with various metal sulfates (Mg(II), Zn(II), Co(II), Ni(II), Cu(II), Mn(II), Al(III), Fe(III)) and oxides (MgO, ZnO, Al2O3, TiO2, SiO2). The resulting gels were characterized for swellability and used as stationary phases in size exclusion chromatography (SEC).",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "The solid components of three toothpastes (BioRepair, nanosensitive hca, Theramed S.O.S. Sensitive) and a mouth wash (BioRepair) were isolated and analyzed. The toothpastes and mouth wash were dispersed in water, ultrasonicated, and centrifuged to isolate the solid components. The isolated solids were characterized using dynamic light scattering (DLS), nanoparticle tracking analysis (NTA), scanning electron microscopy (SEM), energy-dispersive X-ray spectroscopy (EDX), X-ray powder diffraction (XRD), atomic absorption spectroscopy (AAS), thermogravimetric analysis (TG), and elemental analysis. The toothpastes contained nanoparticles of zinc-substituted hydroxyapatite, amorphous silica, TiO2 (anatase), and Na-Ca-Si-P bioglass.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "The synthesis involved the graft-polymerization of styrene to a hydrophilic macromer (ST-PVP) adsorbed on ultrafine colloidal metal oxide particles (SiO2, TiO2, Al(OH)3, CeO2-TiO2-SiO2, Fe2O3-TiO2-SiO2). The colloidal solutions were mixed with ST-PVP, ethanol, and tetrahydrofuran, followed by the addition of styrene and the initiator 2,2'-azobis(isobutyronitrile). The mixtures were heated at 70°C for 4 hours, and the resulting composites were isolated by centrifugation and drying. The composites were characterized using infrared spectroscopy, scanning electron microscopy (SEM), transmission electron microscopy (TEM), and thermal gravimetric analysis (TGA).",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "The synthesis of TiO2/P(MMA-AA-BA) involved polymerizing acrylate monomers directly onto nano-TiO2 particles to yield core–shell particles. A typical experiment included dissolving SDS in deionized water, adding rutile nano-TiO2 gradually, and dispersing ultrasonically. The nanoparticle suspension was transferred to a flask, heated, and monomers were added over time. The mixture was allowed to react for 5 hours. For comparison, P(MMA-AA-BA) was synthesized without nano-TiO2. TiO2-P(MMA-AA-BA) was prepared by mechanically blending nano-TiO2 into the P(MMA-AA-BA) emulsion.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "The discontinuous dispersion experiments were carried out using an ultrasonic sonotrode immersed in the liquid particle-resin mixture. The setup for the continuous process involved a storage container for the suspension, a toothed wheel pump, and an ultrasonic reactor with a flow-through cell. The suspension was circulated through the ultrasonic cell, and samples were taken at defined times for particle size analysis.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "The synthesis involved CuSO4-catalyzed redox-initiated radical polymerization of MMA from amino-functionalized TiO2 nanoparticles. The process included dissolving CuSO4 in water, adding TiO2-NH2 nanoparticles, MMA, and DMSO, and stirring the mixture at 90°C. The resulting TiO2-g-PMMA nanoparticles were washed and dried. The grafted PMMA chains were cleaved from the nanoparticles for characterization.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "The organic-inorganic hybrid porous materials were synthesized using suspension polymerization. PVP and sodium chloride were dissolved in deionized water, and a mixture of n-heptane, St, DVB, BPO, and oleic acid-coated TiO2 was added. The mixture was heated and aged under nitrogen. The resulting porous materials were filtered, washed, and dried. The adsorption experiments involved shaking the porous materials with discarded tea extract solution and analyzing the concentrations of EGCG and CAF using HPLC.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "Drying of ethanol: In order to dry ethanol, 250 g of annealed (6 h, 900°C) calcium oxide was added to 1 L of ethanol. The mixture was refluxed for 8 h. Then absolute ethanol was obtained by distillation. Ethanol was additionally filtered using a Teflon filter (0.2 µm) and after this the residual water concentration was estimated by Karl–Fischer titration. The typical water concentration was about 1000 ppm.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "The colloidal suspension was made by mixing NPs of titanium dioxide (TiO2 NPs) in water. The synthesis of TiO2 NPs had been previously described. Briefly, a stock solution with Ti4+ ion concentration of 1 M was prepared by dilution of TiCl4 in HCl (3 M) solution. After that, 50 mL of the stock solution was introduced in 200 mL of distilled water at room temperature. No precipitation occurred. The pH value of the mixture was fixed at 6 by the addition of NaOH. The final volume of the mixture was adjusted with distilled water in order to obtain a Ti4+ ion concentration of 0.15 M. This was followed by a hydrothermal treatment at 473 K during 2 h, which induced a densification and an anatase crystallization. In this paper, aqueous solutions were loaded with 3% in weight of TiO2 NPs, and the measured pH was around 2.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "ATS NCs were prepared through thermal decomposition of corresponding metal diethyldithiocarbamates in oleylamine at various reaction temperatures. The size and morphology of the particles varied depending on the reaction temperature. Monodispersed spherical NCs with an average size of less than 10 nm were formed at relatively low temperatures (<200 °C), while some particles became polygonal with a wider size distribution at higher temperatures (>300 °C). The average size and size distribution of ATS NCs were determined by TEM measurement. The X-ray diffraction (XRD) patterns of the obtained ATS NCs were analyzed, and the particles exhibited a broad XRD pattern consistent with orthorhombic Ag8SnS6. The photoelectrochemical properties of ATS NCs were investigated using ZnO electrodes to determine their usefulness for QDSSCs.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "The experimental procedure involved the synthesis of titania nanoparticles using various methods, including in-situ synthesis, and their incorporation into ammonium perchlorate composite propellants (APCP). The mechanical properties of the propellants were tested using uniaxial tensile testing to measure ultimate strength, ductility, and elastic modulus. Advanced imaging techniques, such as TEM, were used to characterize particle size and network type. The propellants were mixed and cast, and the mechanical properties were compared to a baseline formulation without titania nanoparticles. The effect of the nanoparticles on propellant density and mechanical performance was analyzed.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "The experimental setup involved a spherical 5-liter test bomb with a central 30 Joule fused wire ignition source. The bomb was placed in a constant temperature oven at 60°C and 16 psia to simulate vent header conditions. Mixtures of fuel vapor, oxygen, and diluent were made up by partial pressures, and the oxygen concentration was confirmed using a paramagnetic analyzer. The flammability envelope of methane was first established, followed by tests to determine the effect of methane enrichment gas on the flammability envelope of ethylene, hydrogen, methyl alcohol, and ethyl ether. The measured UFL envelopes were compared with Le Chatelier Rule predictions.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "The TiO2 nanoparticles were prepared via the hydrolysis of tetra-titanium isopropoxide (TTIP). A colloidal sol containing 3 g of TiO2 nanoparticles was prepared using a ball-milling process. The TiO2 films were deposited by spin coating the colloidal sol on quartz substrates and subsequently annealing the films at 600°C for various durations. The crystal structure and crystallinity of the TiO2 films were investigated using XRD, and the crystallite size was evaluated using the Scherrer equation. The specific surface areas of the powders were measured using a BET analyzer. TEM was used to investigate the morphologies and structures of the nanoparticles. The photocatalytic activity of the TiO2 films was estimated by monitoring the decomposition of stearic acid cast onto the films.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "Nanocrystalline titania powders were prepared by a sol-gel process. The powders were heat-treated above 620 K to remove water and organic components. The samples were analyzed using X-ray diffraction (XRD) and differential scanning calorimetry (DSC). The XRD patterns showed that the powders were predominantly composed of anatase phase crystallites, with some rutile phase in larger grained powders. The Debye temperature was measured using a two-temperature XRD technique and DSC method.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "Three different samples of TiO2/Al2O3 mixtures were prepared. The first sample was a physical mixture of TiO2 and Al2O3 powders. The second sample was prepared similarly but using TiO2 and Al2O3 powders of similar size. The third sample was prepared by wetness impregnation of Al2O3 with a Ti(OCH(CH3)2)4 alcoholate precursor, followed by calcination. The samples were analyzed using XPS and TEM.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "TiO2, SnO2, and SiO2 nanoparticles were synthesized using non-aqueous processes. The nanoparticles were precipitated in ether, dialyzed, and redispersed in water. The size distributions were measured using DLS, and the morphology was investigated using TEM. The nanoparticles were then used to crosslink guar gum (GG) and hydroxypropyl guar (HPG) solutions, and the interaction was studied using isothermal titration calorimetry (ITC).",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "TiO2 nanoparticles were synthesized by a sol-gel method using various dicarboxylic acids as modifiers. The acids included oxalic acid, malonic acid, succinic acid, glutaric acid, adipic acid, maleic acid, fumaric acid, malic acid, and tartaric acid. The synthesized particles were characterized using FTIR, UV-DRS, XRD, SEM, TEM, SAED, EDX, and BET surface area measurement. The photocatalytic activity of the samples was tested by degrading methylene blue under direct sunlight.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "The experimental section details the materials and methods used in the study. Titanium dioxide (TiO2) and mineral oil were used as the primary materials. TiO2 was dialyzed and dehydrated, and stock dispersions were prepared by ultrasonication. Mineral oil emulsions were produced similarly, with the addition of surfactants (SDS, CTAB, and Triton X-100) to study their effects. Zeta potentials were measured using a Rank Bros. Mark II apparatus, and aggregation kinetics were studied using photon correlation spectroscopy (PCS). The PCS measurements were taken at a scattering angle of 90°, and the stability ratios were determined from the initial slopes of the apparent average particle diameter over time. The experiments were conducted at 24°C, and pH was adjusted using HNO3 or KOH solutions. The results of zeta potential measurements and stability ratio computations were compared to theoretical models, showing good agreement between experimental and computed stability ratios for heteroaggregation.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "Optical waveguide lightmode spectroscopy (OWLS) was used to measure the adsorption kinetics of fibronectin onto a smooth silica–titania surface under laminar flow conditions. Human fibronectin was obtained from Sigma and used as received. The adsorbing surface was a planar Si(Ti)O2 optical waveguide incorporating a grating coupler, onto which was sealed a small hemicylindrical flow-through cuvette. The flow cell was mounted on the head of an IOS-1 integrated optics scanner. Before use, waveguides were immersed in a 2% aqueous solution of sodium dodecyl sulfate for 10 min and then rinsed extensively with Nanopure water. Once the adsorbing surface was assembled into the flow cell, pH buffer flowed through the cuvette at a wall shear rate of 16 s−1 until the lightmode spectrum was stable, upon which the flow was switched to fibronectin dissolved in the same buffer at concentration c. The lightmode spectrum of the waveguide was repeatedly scanned, and the effective refractive indices of the zeroth transverse electric and transverse magnetic modes were evaluated to yield the surface density Γ of the adsorbed protein.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "The experimental setup included a flow cloud chamber (FCC) to examine the effects of surface properties, particle size, and vapor substance on the nucleation process. Two types of aerosols, SiO2 and TiO2, were tested. The size dependence of the critical supersaturation required to induce heterogeneous nucleation in the diameter range 20 to 90 nm was experimentally measured. The law of corresponding states was extended to the heterogeneous nucleation, and the critical supersaturation was correlated as a function of reduced temperature. The contact angles of particles with n-butanol were measured using the sessile drop technique. The removal efficiency was determined by comparing particle concentrations at the inlet and the outlet of the FCC, measured by an ultra-fine condensation particle counter.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "A composite containing nanosized gold particles was prepared through vapor deposition of gold onto a nylon-11 oligomer film followed by heat treatment at 120°C. The gold content in the composite was ca. 14.9 wt%, and the mean size of the gold particles prepared was ca. 5.0 nm. Modification of P25-TiO2 particles by using the composite was carried out by dissolving the composite in CH2Cl2 to give a stable colloidal solution with a gold concentration of 4.6 mmol L−1. The TiO2 particles were suspended in CH2Cl2 with stirring, and the colloidal solution of the gold particles was poured into the suspension. After several hours of stirring, the modified TiO2 particles were separated by filtration through a 0.8-µm PTFE membrane filter and then dried at 40°C in air. Immobilization of the gold particles onto the surface of TiO2 was carried out by a two-step calcination of the modified TiO2: in the first step at 500°C for 1 h under vacuum, and in the second step at 400°C for 1 h in air. The samples were characterized by visible reflection spectroscopy, infrared spectroscopy (IR), X-ray diffraction (XRD), and transmission electron microscopy (TEM). The catalytic property of the supported gold catalyst on TiO2 was examined on CO oxidation by using a flow type reactor.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "Phosphate impregnated titania samples with varying amounts of phosphate were prepared by solid–solid kneading as well as aqueous impregnation method. All the samples were characterized by XRD, TG-DTA, and N2 adsorption–desorption isotherm. The catalytic activity of all the samples for dehydrogenation/dehydration of 2-propanol was studied using a fixed bed catalytic reactor with on-line GC. Prior to reaction, catalysts were preheated in nitrogen atmosphere at 673 K for 1 h. Alcohol was supplied to the reactor by bubbling nitrogen gas through the alcohol container at 30°C. Reaction products were analyzed by means of GC in FID mode using Porapak Q columns. The cumene cracking/dehydrogenation reaction was carried out in a micropulse reactor using nitrogen as the carrier gas in the temperature range of 673 to 873 K. Prior to the experiment, the catalyst was activated at 773 K for 1 h in a nitrogen stream. The volume of one cumene pulse was maintained at 1 ml (7.2 mmol). All the products were analyzed by GC using a 10 ft SS column with 10% TCEP.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "The reactor used for the study of aggregation was a stirred tank equipped with four baffles. The liquid depth in the vessel was equal to the diameter of the tank. Agitation was ensured by a propeller pumping downward. Temperature was kept constant at 25.00°C by a double-wall jacket. The liquid volume was always equal to 2.5 l. The turbidity probe and the backscattering sensor were located at the third of the vessel radius midway between two baffles and mounted at a height above the bottom of the tank. When necessary, off-line PSD determinations were carried out by means of laser diffraction particle sizers. Microphotographs of materials were obtained from a scanning electronic microscope and a transmission electronic microscope. Zeta potential was measured by acoustophoresis for high solid volume fraction and by microelectrophoresis for low solid volume fraction. The aggregation experiments were performed on rutile titanium dioxide. The material was purchased from Millenium Inorganic Chemicals (RL60 Titania). The surface layer composition was determined by X fluorescence. The PSD obtained from laser diffraction was shown. The zeta potential was measured at different values of the ionic strength at high volume fraction in solid. The experimental procedures for diluted and concentrated suspensions were described in detail.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "The experimental section describes the materials used, including different powders (glass ballotini, lactose, zinc oxide, and titanium dioxide) and binders (water, PEG200, PEG600, HPC solutions). The drop penetration time was measured by filming single drops as they penetrated into loosely packed powder beds. The setup included a syringe to dispense drops, a microscope with a CCD camera, and a video recorder to capture the penetration process. The penetration time was determined by analyzing the video frames or using a stopwatch for slower penetrations. The powder packing conditions were varied to study the effects of porosity and particle size distribution.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "The experimental section details the synthesis of germanium-substituted tin oxide using a sol-gel method. Sn(OC2H5)4 and Ge(OC2H5)4 were dissolved in ethanol, and acetophenone was added to stabilize the solution. The mixture was stirred and left to form a wet gel, which was then dried and calcined at different temperatures. The resulting powder was characterized using XRD, SEM, TEM, EDX, IR, XPS, and BET surface area measurements. The synthesis aimed to maintain the rutile-type structure while ensuring complete solubilization of germanium in the SnO2 structure.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "The experimental section describes the use of sixty screw-shaped c.p. titanium implants divided into four groups with different surface treatments: as-machined, blasted with 25 µm TiO2 particles, blasted with 25 µm Al2O3 particles, and blasted with 250 µm Al2O3 particles. The implants were inserted into the femurs and tibiae of ten adult rabbits. After a healing period of 12 weeks, the removal torque was measured, and histomorphometric analysis was performed to evaluate bone-to-metal contact. The surface topography of the implants was characterized before and after implantation using an optical profilometer.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "The experimental section describes the preparation of alumina, silica-alumina, and titania sols using inorganic salts. The process involves adding alkaline solutions to inorganic salt solutions to form precipitates, which are then peptized with acid to form stable sols. The sols are aged, dried, and calcined to produce materials with narrow mesoporous distributions. The preparation of alumina involves adding ammonium hydroxide to aluminum nitrate, washing the precipitate, and peptizing it with nitric acid. Silica-alumina is prepared by mixing aluminum nitrate with water glass, adjusting the pH with ammonium hydroxide, and peptizing with nitric acid. Titania sols are prepared by peptizing a TiCl4 precipitate with ammonia and nitric acid. Characterization techniques include pH measurement, particle size distribution analysis, specific surface area measurement, X-ray diffraction, NMR spectroscopy, and TEM.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "The experimental section details the preparation and thermo-mechanical processing of Au-1Ti alloy. The alloy is melted in a vacuum induction furnace, cast into ingots, and subjected to solution heat treatment at 800°C followed by rapid cooling. Precipitation hardening is achieved by heating the alloy at 400°C, with or without cold working. The hardness and tensile strength of the alloy are measured, and the effects of different heat treatments on fine wire and foil are investigated. The study also examines the formation of titanium oxide inclusions and their impact on the alloy's mechanical properties.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "The experimental section describes the collection and analysis of samples from a municipal sewage treatment plant. Samples of influent sewage, aeration tank contents, and treated effluent are collected and separated into supernatant and sludge fractions. The samples are digested using a microwave digester, and the concentration of titanium (Ti) is measured using ICP-MS. The size and concentration of TiO2 nanoparticles (TNP) in the sludge fraction are characterized using single-particle ICP-MS (SP-ICP-MS). The study also discusses the distribution of Ti and TNP in different fractions of the sewage treatment process.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "The experimental section involves molecular dynamics (MD) simulations to study the interaction between TiO2 nanoparticles and multi-walled carbon nanotubes (MWCNTs). The simulations are performed using a reactive force field (ReaxFF) to model the bonding and interactions at the interface of the MWCNT@TiO2 nanohybrid. The study examines the effect of TiO2 shell thickness on the stability and energy storage properties of the nanohybrid. Density functional theory (DFT) calculations are also performed to understand the electronic properties and adsorption energies of the system. The simulations are conducted at a temperature of 400°C to mimic the experimental conditions used in the synthesis of the nanohybrid.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "The sol precursor for fiber drawing was prepared from commercial grade titanium butoxide. The process involved dissolving butoxide in dry butanol, adding distilled water and HCl, and then removing the liquid phase using a Rotavapor. The as-prepared substance was aged for 24 hours to become a suitable precursor.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "The nanosol was prepared by mixing absolute ethyl alcohol and tetrabutyl titanate, then adding the mixture dropwise into a HNO3 solution. The mixture was stirred for 48 hours to ensure complete hydrolysis and growth of TiO2 crystallites.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "Cellulose was dissolved in a NaOH/PEG-4000 solution, frozen, and then thawed. The resulting hydrogel was immersed in the TiO2 nanosol, heated, and then freeze-dried to form the aerogel.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "Aluminum-silicate (AS) and silica-titania (ST) nanocomposites were synthesized using a sol-gel method. Precursors were mixed with solvents and acid, stirred, and then aged. The sols were spin-coated onto glass substrates and dried at room temperature.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "The nanocomposite was synthesized using a sol-gel method. Silica and titania sols were prepared, mixed, and doped with nickel nanoparticles. The sol was spin-coated onto glass substrates and annealed at 300°C.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "The experimental section describes the preparation of titania membrane support using solution combustion synthesis. Titanium tetraisopropoxide (TIPP) was hydrolyzed to form titanyl nitrate solution, which was then mixed with glycine as a fuel. The combustion was carried out at 350°C, and the resulting titania particles were calcined at 550°C. The powder was processed and mixed with polyvinyl alcohol (PVA) to form a homogenous suspension, which was then pressed into membranes and sintered at 450°C.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "TiO2 films were synthesized by a sol-gel method on glass, aluminum, and textured aluminum substrates. The films were modified with gold nanoparticles by adding aqueous tetrachloroauric acid during the sol preparation. The films were deposited by immersion and calcined at 400°C.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "Titania sol was prepared by hydrolysis and condensation of titanium isopropoxide, followed by peptization. The sol was hydrothermally treated at 135°C for 12 hours. Unsupported titania membranes were prepared by drying the sol in petri dishes and calcining at 450°C and 600°C. The membranes were characterized using nitrogen adsorption/desorption, XRD, and BET surface area measurements.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "The experimental details include the wet ball mill process of Mo particles, where elemental molybdenum powder was ball-milled in ethanol using stainless-steel balls. The ball-milling time ranged from 0 to 72 hours, and the final product was collected by centrifugation, washed, and dried. The effect of ball-milling on particle shape was systematically examined. Additionally, Mo films were fabricated using a screen-printing method, and organic components in the paste were burned out at 220°C. A TiO2 layer was deposited on the Mo particle films using atomic layer deposition (ALD) at 200°C. The samples were annealed at various temperatures, and their microstructure and electrical properties were characterized using SEM, EDS, and resistivity measurements.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "Nanocrystalline ZnO particles were synthesized using a solvothermal method. Zn(Ac)2·H2O, NaOH, and EDA were mixed in deionized water, and CTAB was added as a surface modification agent. The mixture was heated at 180°C for 8 h, then cooled and centrifuged to harvest the product. The ZnO particles were characterized by XRD, FESEM, TEM, PL spectra, and UV-Vis spectra. Photocatalytic tests were conducted using a 250 W high-pressure mercury lamp to degrade MO and MB dyes under UV-Vis light irradiation.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "TiO2 nanoparticles were prepared by controlled addition of TiOSO4 in distilled water, followed by the addition of PVP as a capping agent and aqueous ammonia to form a white gelatinous precipitate. The precipitate was washed, subjected to microwave irradiation, and calcined at different temperatures. The nanoparticles were characterized by XRD, SEM, TEM, EDS, FT-IR, DLS, and UV-Vis diffuse reflectance spectrophotometry. Photocatalytic activity was evaluated by degrading MO under UV light irradiation.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "Pure and Zn-doped TiO2 thin films were deposited on ITO glass substrates using spray pyrolysis. The Ti precursor was titanyl acetylacetonate, and the Zn precursor was zinc acetylacetonate. The films were deposited at 450°C and characterized by XRD, SEM, AFM, HR-TEM, UV-Vis spectrophotometry, PL spectroscopy, and Hall effect measurements. Photocatalytic activity was evaluated by degrading MB dye, and dye-sensitized solar cell efficiency was measured.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "Composite solders were prepared by mechanically dispersing TiO2 nano-powder into Sn–3.0Ag–0.5Cu solder paste. The mixture was blended for uniform distribution and applied to Cu pads with an opening diameter of 200 µm. The solder joints were reflowed at 250°C with varying dwell times. The microstructure of the solder joints and interfacial intermetallic layers were analyzed by SEM, EDX, and XRD. The thickness of the intermetallic compound (IMC) layer was measured using SEM and image analysis.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "The synthesis of Cu-doped TiO2 nanoparticles was carried out using the sol-gel technique. Titanium (IV) isopropoxide (TTIP) and copper chloride (CuCl2) were used as precursors. TTIP was dissolved in 2-propanol, and different amounts of CuCl2 were added to the solution. The pH was adjusted to 7 using ammonium hydroxide, and the solution was stirred for 1 hour. Deionized water was added for hydrolysis, and the solution was stirred for 6 hours. The solution was aged for 24 hours, dried at 100°C, and calcined at 450°C for 3 hours to obtain the final product.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "TiO2 nanocrystals were inserted into mesoporous SiO2 nanospheres using a two-step method involving vacuum-rotary evaporation and calcination. The mesoporous SiO2 nanospheres were synthesized using cetyltrimethylammonium bromide (CTAB), triethanolamine (TEOA), and tetraethyl orthosilicate (TEOS). The TiO2 precursor was prepared by mixing tetrabutyl titanate (TBOT) with TEOA and ethanol. The TiO2 precursor was then adsorbed onto the SiO2 nanospheres, followed by hydrolysis and polymerization. The final product was calcined at 400-750°C for 3 hours.",
+    "output": {}
+    },
+    {
+    "instruction": "extract the relevant data from the experimental text",
+    "input": "TiO2 nanoparticles were synthesized using the solution combustion method with Tween 80 as a surfactant. Titanium tetra isopropoxide was mixed with dextrose and Tween 80 in deionized water. The solution was subjected to auto-combustion at 250°C, resulting in the formation of TiO2 nanoparticles. The particles were characterized using XRD, FTIR, SEM, and TEM.",
+    "output": {}
+    }
+]
