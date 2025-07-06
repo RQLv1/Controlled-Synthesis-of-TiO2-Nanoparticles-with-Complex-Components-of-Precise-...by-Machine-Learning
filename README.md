@@ -1,4 +1,4 @@
-# Controlled Synthesis of TiO2 Nanoparticles with Complex Components of Precise Particle Size Distribution Assisted by Machine Learning
+# Leveraging machine learning to control the precise particle size distribution of TiO~2~ nanoparticles in optical nanocomposites
 
 ## Overview
 
