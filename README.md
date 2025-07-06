@@ -1,4 +1,4 @@
-# Leveraging machine learning to control the precise particle size distribution of TiO~2~ nanoparticles in optical nanocomposites
+# Leveraging machine learning to control the precise particle size distribution of TiO<sub>2</sub> nanoparticles in optical nanocomposites
 
 ## Overview
 
